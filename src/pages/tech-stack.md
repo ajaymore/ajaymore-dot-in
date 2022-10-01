@@ -1,0 +1,41 @@
+### To know
+
+- [ ] TS
+- [ ] Elixir
+- [ ] Web application | Remix
+- [ ] Mobile application | React Native
+- [ ] REST Api | Remix
+- [ ] Authentication | JWT, Cookie based
+- [ ] Database | MongoDB, PostgreSQL
+- [ ] Docker
+- [ ] 12 Factor app
+- [ ] Agile Manifesto
+- [ ] State machines
+- [ ] Websockets | Phoenix LiveView
+- [ ] Algorithms & DS
+- [ ] Figma
+- [ ] Typography
+- [ ] Color
+- [ ] HTML Email
+- [ ] Web scraping | Puppeteer
+- [ ] Functional programming
+- [ ] UI animation | Framer motion, Moti
+- [ ] Web security
+- [ ] Web performance & load testing | jmeter
+- [ ] Search Engine optimisation
+- [ ] Analytics
+- [ ] Measuring performance at code level
+- [ ] Linux server basic administration
+- [ ] Android app deployment checklist
+- [ ] iOS app deployment checklist
+- [ ] Github Projects
+- [ ] Service Workers
+- [ ] Google cloud storage
+- [ ] Ghost CMS
+- [ ] Docusaurus
+- [ ] TCP, TLS, http2
+- [ ] Cryptography
+- [ ] Firebase
+- [ ] Web Audio
+
+
